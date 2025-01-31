@@ -277,9 +277,12 @@
     text-underline-offset: 4px;
 }
 
+.header__links-list-item_no-bullit {
+    list-style: none;
+}
+
 .footer__menu-link_active {
     text-decoration: none;
-    list-style: none;
 }
 
 .footer__social-list {
